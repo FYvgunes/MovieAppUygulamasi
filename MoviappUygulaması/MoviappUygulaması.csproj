@@ -24,10 +24,86 @@
       <Content Include="..\..\..\.nuget\packages\bootstrap\5.0.0-alpha1\contentFiles\any\any\wwwroot\css\album.css">
         <Link>wwwroot\css\album.css</Link>
       </Content>
+      <Content Update="wwwroot\img\1.jpeg">
+        <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+        <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      </Content>
+      <Content Update="wwwroot\img\2.jpeg">
+        <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+        <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      </Content>
+      <Content Update="wwwroot\img\5.jpg">
+        <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+        <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      </Content>
+      <Content Update="wwwroot\img\6.jpg">
+        <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+        <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      </Content>
+      <Content Update="wwwroot\img\7.jpg">
+        <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+        <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      </Content>
+      <Content Update="wwwroot\img\8.jpg">
+        <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+        <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      </Content>
+      <Content Update="wwwroot\img\9.jpg">
+        <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+        <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      </Content>
+      <Content Update="wwwroot\img\3.jpeg">
+        <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+        <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      </Content>
+      <Content Update="wwwroot\img\4.jpeg">
+        <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+        <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      </Content>
     </ItemGroup>
 
     <ItemGroup>
       <PackageReference Include="bootstrap" Version="4.5.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="img\8.jpg" />
+      <None Update="img\1.jpeg">
+        <Link>img\1.jpeg</Link>
+      </None>
+      <None Update="img\res3.jpeg">
+        <Link>img\res3.jpeg</Link>
+      </None>
+      <None Update="img\9.jpg">
+        <Link>img\9.jpg</Link>
+      </None>
+      <None Update="img\res5.jpeg">
+        <Link>img\res5.jpeg</Link>
+      </None>
+      <None Update="img\2.jpeg">
+        <Link>img\2.jpeg</Link>
+      </None>
+      <None Update="img\5.jpg">
+        <Link>img\5.jpg</Link>
+      </None>
+      <None Update="img\7.jpg">
+        <Link>img\7.jpg</Link>
+      </None>
+      <None Update="img\6.jpg">
+        <Link>img\6.jpg</Link>
+      </None>
+      <None Update="img\res1.jpg">
+        <Link>img\res1.jpg</Link>
+      </None>
+      <None Update="img\3.jpg">
+        <Link>img\3.jpg</Link>
+      </None>
+      <None Update="img\res3.jpg">
+        <Link>img\res3.jpg</Link>
+      </None>
+      <None Update="img\res2.png">
+        <Link>img\res2.png</Link>
+      </None>
     </ItemGroup>
 
 </Project>

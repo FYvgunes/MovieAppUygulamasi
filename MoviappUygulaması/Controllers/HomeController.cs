@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using MoviappUygulaması.Models;
 
 namespace MoviappUygulaması.Controllers
 {
@@ -7,7 +8,7 @@ namespace MoviappUygulaması.Controllers
         // GET
         public IActionResult Index()
         {
-            return View();
+            return View(MovieRepository.Movies);
         }
     }
 }
