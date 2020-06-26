@@ -10,6 +10,8 @@ namespace MoviappUygulaması.ViewComponent
         {
             return View(CategoryRepository.Categories);
         }
+
+        
     }
     
 }
