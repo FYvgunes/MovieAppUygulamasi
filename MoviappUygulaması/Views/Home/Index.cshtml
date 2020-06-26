@@ -1,5 +1,6 @@
 @using Microsoft.VisualBasic
 @model IEnumerable<MoviappUygulaması.Models.Movie>
+
 @{
     ViewBag.Title = "title";
     Layout = "_Layout";
@@ -11,8 +12,10 @@
     <div class="container">
        
         <div class="row">
-           @Html.Partial("_MovieList",Model)
-           @Html.Partial("_Slider")
+            @Html.Partial("_Slider")
+            
+            @Html.Partial("_MovieList", Model)
+
 
         </div>
     </div>
