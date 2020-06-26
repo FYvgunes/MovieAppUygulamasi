@@ -1,4 +1,3 @@
-
 @using MoviappUygulaması.Models
 @model MoviappUygulaması.Models.Movie
 @{
@@ -6,19 +5,14 @@
     Layout = "_Layout";
 }
 <div class="container">
-    <div class="row">
-        <di class="col-md-4">
-            <div class="card" style="width: 18rem; margin-top: 80px; margin-left: 20px">
-                <div class="card-header">
-                    Featured
-                </div>
-                <ul class="list-group list-group-flush">
-                    <li class="list-group-item">Cras justo odio</li>
-                    <li class="list-group-item">Dapibus ac facilisis in</li>
-                    <li class="list-group-item">Vestibulum at eros</li>
-                </ul>
-            </div>
-        </di>
+<div class="row">
+    <div class="col-md-4">
+        @await  Component.InvokeAsync("Menu")
+    </div>
+
+
+
+
         <div class="col-md-8">
             <div class="card" style="width: 100%; height: auto; margin-top: 80px;">
                 <img src="~/img/@Model.Image" class="card-img-top" alt="@Model.Name">

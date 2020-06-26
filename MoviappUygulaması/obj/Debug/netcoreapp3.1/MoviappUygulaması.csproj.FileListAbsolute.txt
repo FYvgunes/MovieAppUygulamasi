@@ -37,3 +37,4 @@
 /Users/kullanici/RiderProjects/MoviappUygulaması/MoviappUygulaması/obj/Debug/netcoreapp3.1/Razor/Views/Movie/Index.cshtml.g.cs
 /Users/kullanici/RiderProjects/MoviappUygulaması/MoviappUygulaması/obj/Debug/netcoreapp3.1/Razor/Views/Movie/List.cshtml.g.cs
 /Users/kullanici/RiderProjects/MoviappUygulaması/MoviappUygulaması/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_MovieList.cshtml.g.cs
+/Users/kullanici/RiderProjects/MoviappUygulaması/MoviappUygulaması/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/Menu/Default.cshtml.g.cs
