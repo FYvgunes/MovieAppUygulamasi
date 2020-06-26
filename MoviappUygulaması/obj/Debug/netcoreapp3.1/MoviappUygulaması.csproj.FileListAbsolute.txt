@@ -12,8 +12,6 @@
 /Users/kullanici/RiderProjects/MoviappUygulaması/MoviappUygulaması/obj/Debug/netcoreapp3.1/MoviappUygulaması.pdb
 /Users/kullanici/RiderProjects/MoviappUygulaması/MoviappUygulaması/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
 /Users/kullanici/RiderProjects/MoviappUygulaması/MoviappUygulaması/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
-/Users/kullanici/RiderProjects/MoviappUygulaması/MoviappUygulaması/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ViewImports.cshtml.g.cs
-/Users/kullanici/RiderProjects/MoviappUygulaması/MoviappUygulaması/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ViewStart.cshtml.g.cs
 /Users/kullanici/RiderProjects/MoviappUygulaması/MoviappUygulaması/obj/Debug/netcoreapp3.1/MoviappUygulaması.RazorTargetAssemblyInfo.cache
 /Users/kullanici/RiderProjects/MoviappUygulaması/MoviappUygulaması/obj/Debug/netcoreapp3.1/MoviappUygulaması.RazorTargetAssemblyInfo.cs
 /Users/kullanici/RiderProjects/MoviappUygulaması/MoviappUygulaması/bin/Debug/netcoreapp3.1/appsettings.Development.json
@@ -31,3 +29,8 @@
 /Users/kullanici/RiderProjects/MoviappUygulaması/MoviappUygulaması/obj/Debug/netcoreapp3.1/staticwebassets/MoviappUygulaması.StaticWebAssets.xml
 /Users/kullanici/RiderProjects/MoviappUygulaması/MoviappUygulaması/obj/Debug/netcoreapp3.1/MoviappUygulaması.genruntimeconfig.cache
 /Users/kullanici/RiderProjects/MoviappUygulaması/MoviappUygulaması/obj/Debug/netcoreapp3.1/MoviappUygulaması.csproj.CopyComplete
+/Users/kullanici/RiderProjects/MoviappUygulaması/MoviappUygulaması/obj/Debug/netcoreapp3.1/Razor/Views/Home/Details.cshtml.g.cs
+/Users/kullanici/RiderProjects/MoviappUygulaması/MoviappUygulaması/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/kullanici/RiderProjects/MoviappUygulaması/MoviappUygulaması/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/kullanici/RiderProjects/MoviappUygulaması/MoviappUygulaması/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Footer.cshtml.g.cs
+/Users/kullanici/RiderProjects/MoviappUygulaması/MoviappUygulaması/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Header.cshtml.g.cs
