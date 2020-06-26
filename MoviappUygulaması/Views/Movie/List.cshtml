@@ -1,0 +1,19 @@
+
+@using Microsoft.VisualBasic
+@model IEnumerable<MoviappUygulaması.Models.Movie>
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+
+<div class="album py-5 bg-light">
+    <div class="container">
+       
+        <div class="row">
+           
+     @Html.Partial("_MovieList",Model)
+
+        </div>
+    </div>
+</div>
