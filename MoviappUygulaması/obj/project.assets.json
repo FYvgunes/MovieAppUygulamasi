@@ -317,7 +317,7 @@
       "outputPath": "/Users/kullanici/RiderProjects/MoviappUygulaması/MoviappUygulaması/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/kullanici/.nuget/NuGet/NuGet.Config"
+        "/Users/kullanici/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
